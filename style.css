@@ -1,0 +1,28 @@
+
+body {
+  background-image: url("https://wallpaperaccess.com/full/3090148.jpg");
+  color: white;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+label {
+  font-size: 20px;
+
+}
+
+input {
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
